@@ -10,10 +10,10 @@ Currently there are three experience brackets:
 - levels 1 to 15
 - levels 16 to 30
 - levels 31+
+
 The formula is defined as the amount of xp it takes to level up 1 level
 **__to__** the level in that bracket. So the first bracket is n=0 to 14,
 the second bracket is n=15 to 29, etc.
-
 
 
 Supported features in the configuration formula:
@@ -22,6 +22,7 @@ Supported features in the configuration formula:
 - Order of operations and parentheses
 - Decimals
 - The variable "level" defined as the player's current exp level.
+
 Negative constants are not supported, and there are no checks to prevent
 integer overflow.
 
