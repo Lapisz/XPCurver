@@ -1,4 +1,4 @@
-# XPCurver
+# XP Curver
 A Fabric/Quilt mod that allows the Minecraft exp level progression
 to be tweaked.
 Default configuration values are set to Minecraft's defaults.
