@@ -1,0 +1,6 @@
+{
+  "text.config.xpcurver.title": "XP Curver Config (Restart required after changes)",
+  "text.config.xpcurver.option.level_up_xp_1_15": "XP needed for 1 level, levels 1-15",
+  "text.config.xpcurver.option.level_up_xp_16_30": "XP needed for 1 level, levels 16-30",
+  "text.config.xpcurver.option.level_up_xp_31_plus": "XP needed for 1 level, levels 31+"
+}
